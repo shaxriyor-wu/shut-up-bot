@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Bot settings
-BOT_TOKEN = os.getenv("8306300764:AAHW32LignvebTsLcQA4Cuar9sQrX9mnvkc")
+BOT_TOKEN = os.getenv("8306300764:AAHW32LignvebTsLcQA4Cuar9sQrX9mnvkc") #(bot token revoke qilingan)
 
 # Moderation settings
 FORBIDDEN_WORDS = ["ko't", "ahmoq", "so'z1", "so'z2" "so'kinish2", "yomonso'z"]
